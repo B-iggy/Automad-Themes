@@ -9,4 +9,4 @@ For the Foundation theme I placed only four variables in the home.php so you get
 
 In combination of my two foundation extensions here https://github.com/B-iggy/Automad-Extensions you can bring foundation into Automad very easily.  
 
-![SEO-options-Screenshot](https://raw.githubusercontent.com/B-iggy/Automad-Extensions/master/Automad-SEO.PNG)
+![Foundation Theme Screenshot](https://github.com/B-iggy/Automad-Themes/blob/master/Automad-foundation-theme.PNG)
